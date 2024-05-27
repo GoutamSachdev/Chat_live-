@@ -36,8 +36,8 @@ To get started with this project, follow the steps below:
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/chat-app.git
-    cd chat-app
+    git clone git remote add origin https://github.com/GoutamSachdev/Chat_live-.git
+    cd Chat_live
     ```
 
 2. **Build the project**:
@@ -82,3 +82,9 @@ FirebaseAuth.getInstance().signInWithEmailAndPassword(email, password)
             Log.w(TAG, "signInWithEmail:failure", task.exception)
         }
     }
+
+
+### Contributing
+Contributions are welcome! Please fork this repository and submit a pull request.[ git clone https://github.com/yourusername/chat-app.git ]
+### Contact
+If you have any questions or feedback, feel free to reach out to me at gksachdev46@gmail.com.
