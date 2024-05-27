@@ -70,7 +70,7 @@
         <ul>
             <li>Real-time chat</li>
             <li>User authentication (Email/Password, Google Sign-In)</li>
-            <li>Login Form </li>
+            <li>Login Form</li>
             <li>Status sharing (24-hour expiration)</li>
             <li>Profile management (update name and picture)</li>
             <li>Password reset via email</li>
@@ -146,13 +146,13 @@ userRef.update("profilePicture", newProfilePictureUrl)</code></pre>
 
         <h2>Contributing</h2>
         <p>Contributions are welcome! Please fork this repository and submit a pull request.</p>
-        <a href="git remote add origin https://github.com/GoutamSachdev/Chat_live-.git" class="btn">Fork on GitHub</a>
+        <a href="https://github.com/GoutamSachdev/Chat_live-.git" class="btn">Fork on GitHub</a>
 
         <h2>License</h2>
-        <p>This project is licensed under the @goutamSachdev License. file for more details.</p>
+        <p>This project is licensed under the @goutamSachdev License. See the <a href="LICENSE">LICENSE</a> file for more details.</p>
 
         <h2>Contact</h2>
-        <p>If you have any questions or feedback, feel free to reach out to me at <a href="mailto:gksachdev46@gmail.com"gksachdev46@gmail.com</a>.</p>
+        <p>If you have any questions or feedback, feel free to reach out to me at <a href="mailto:gksachdev46@gmail.com">gksachdev46@gmail.com</a>.</p>
     </div>
 </body>
 </html>
