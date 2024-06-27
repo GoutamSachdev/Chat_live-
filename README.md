@@ -44,7 +44,7 @@ This project is a real-time chat application built using Jetpack Compose for the
 ## Project Setup
 To get started with this project, follow the steps below:
 ### Contributing
-Contributions are welcome! Please fork this repository and submit a pull request.[ git clone https://github.com/yourusername/chat-app.git ]
+Contributions are welcome! Please fork this repository and submit a pull request.[ git clone (https://github.com/GoutamSachdev/Chat_live) ]
 ### Contact
 If you have any questions or feedback, feel free to reach out to me at gksachdev46@gmail.com.
 
