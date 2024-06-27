@@ -15,13 +15,23 @@ This project is a real-time chat application built using Jetpack Compose for the
 
 ## Screenshots
 ### Chat Screen
-![Chat Screen](images/chat_screen.png)
+![Chat Screen]![image](https://github.com/GoutamSachdev/Chat_live-/assets/142876027/638cd34d-7a91-421c-a3ef-0265971f87fe)
+![image](https://github.com/GoutamSachdev/Chat_live-/assets/142876027/ceed9e02-caea-446e-b79d-8490944d1ed7)
+
+
 
 ### Status Screen
-![Status Screen](images/status_screen.png)
+![image](https://github.com/GoutamSachdev/Chat_live-/assets/142876027/eacfc52e-ebf6-4e6f-bf36-e688f08f028b)
+
+![Status Screen]![image](https://github.com/GoutamSachdev/Chat_live-/assets/142876027/b3a55960-12d8-4662-95d1-e92535aa2351)
+
 
 ### Profile Screen
-![Profile Screen](images/profile_screen.png)
+![Profile Screen]![image](https://github.com/GoutamSachdev/Chat_live-/assets/142876027/0305ed90-f59e-4a5a-b388-95fde61cbc57)
+<img width="728" alt="image" src="https://github.com/GoutamSachdev/Chat_live-/assets/142876027/fd7177f6-6b4b-493c-b1d8-32b7ff116d36">
+<img width="638" alt="image" src="https://github.com/GoutamSachdev/Chat_live-/assets/142876027/b62d8d2e-f1c7-4cf0-984d-f44937819fca">
+
+
 
 ## Technical Stack
 - **Frontend**: Jetpack Compose
